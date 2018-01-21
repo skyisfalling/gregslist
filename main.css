@@ -1,0 +1,10 @@
+nav {
+  background-color: grey;
+  height: 60px;
+  width: 100%;
+  position: fixed;
+}
+
+ul {
+  list-style: none;
+}
